@@ -20,14 +20,14 @@ install.packages(c("shiny", "shinydashboard", "ggplot2", "plotly", "ggnewscale",
 
 ### 1/ Télécharger les 6 CSV dans `Bilanconso/`
 **PRODUCTION** :
-- [Région](https://data.enedis.fr/explore/dataset/production-electrique-par-filiere-a-la-maille-region/export/)
-- [Département](https://data.enedis.fr/explore/dataset/production-electrique-par-filiere-a-la-maille-departement/export/)
-- [Commune](https://data.enedis.fr/explore/dataset/production-electrique-par-filiere-a-la-maille-commune/export/)
+- [Région](https://data.enedis.fr/explore/dataset/production-electrique-par-filiere-a-la-maille-region/)
+- [Département](https://data.enedis.fr/explore/dataset/production-electrique-par-filiere-a-la-maille-departement/)
+- [Commune](https://data.enedis.fr/explore/dataset/production-electrique-par-filiere-a-la-maille-commune/)
 
 **CONSO** :
-- [Région](https://data.enedis.fr/explore/dataset/consommation-electrique-par-secteur-dactivite-region/export/)
-- [Département](https://data.enedis.fr/explore/dataset/consommation-electrique-par-secteur-dactivite-departement/export/)
-- [Commune](https://data.enedis.fr/explore/dataset/consommation-electrique-par-secteur-dactivite-commune/export/)
+- [Région](https://data.enedis.fr/explore/dataset/consommation-electrique-par-secteur-dactivite-region/)
+- [Département](https://data.enedis.fr/explore/dataset/consommation-electrique-par-secteur-dactivite-departement/)
+- [Commune](https://data.enedis.fr/explore/dataset/consommation-electrique-par-secteur-dactivite-commune/)
 
 ### 2/ Nettoyer les données
 
