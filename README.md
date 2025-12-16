@@ -38,10 +38,10 @@ source("Bilanconso/cleandata.R")
 shiny::runApp("Bilanconso/app.R")
 
 ## Structure
-Bilanconso/
-├── app.R # Dashboard Shiny
-├── cleandata.R # Nettoyage données
-└── README.md
+Bilanconso/  
+├── app.R # Dashboard Shiny  
+├── cleandata.R # Nettoyage données  
+└── README.md  
 
 
 ## 🔧 `cleandata.R` fait :
