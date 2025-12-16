@@ -1,4 +1,4 @@
-# Bilanconso
+# Bilan Électrique France - Shiny Dashboard
 
 **Application Shiny Dashboard** interactive pour analyser la **production électrique par filière** (photovoltaïque, éolien, hydraulique, bioénergie, cogénération, autres) et la **consommation par secteur d'activité** en France aux mailles région/département/commune.
 
